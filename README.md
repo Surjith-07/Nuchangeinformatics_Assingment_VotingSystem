@@ -8,10 +8,10 @@ Data Type: HashMap<String, Integer>
 Purpose: To efficiently store candidate names and their corresponding vote counts.
 
 2. Setup a Spring Boot Project
-Create a new Spring Boot project using your preferred IDE or Spring Initializer.
+Create a new Spring Boot project using Spring Initializer.
 
 3. Implement Controller and Service
-Create a VotingController class to handle incoming HTTP requests.
+Create a VotingController class to handle incoming HTTP requests.(GET,POST)
 Create a VotingService class to manage the business logic.
 
 4. Implement Basic APIs
@@ -29,10 +29,10 @@ Use appropriate synchronization mechanisms to handle simultaneous execution.
 Implement unit tests for each API in a separate VotingControllerTest class.
 
 8. Documentation
-Add Javadoc comments to explain the purpose of each class and method.
+Add Javadoc comments to explain the purpose of each class and method.-> (Which will be explained in an video)
 
 9. Run and Test
-Run the application and test each API using tools like Postman or curl.
+Run the application and test each API using tool Postman.
 
 11. Additional Considerations
 Handle edge cases, error scenarios, and input validation.
