@@ -2,8 +2,7 @@
 Developed an VotingSystem Using Springboot , Java , RestAPI's
 
 Implementation Outline
-#1. Data Structures Used
-
+1. Data Structures Used
 candidates (in VotingService):
 Data Type: HashMap<String, Integer>
 Purpose: To efficiently store candidate names and their corresponding vote counts.
